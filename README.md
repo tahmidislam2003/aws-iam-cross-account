@@ -18,7 +18,7 @@ graph LR
 
 ---
 
-## What this is
+## Overview
 
 This project sets up cross-account role assumption between two AWS accounts in an Organization — a common pattern in enterprise AWS environments where a central security account needs read-only access to workload accounts for auditing.
 
